@@ -2,4 +2,4 @@ to jest super program który na pewno bêdzie dzia³a³
 
 ale nie dziœ
 
-a mo¿e jednak dziœ, nie wiadomo nic
+a mo¿e jednak dziœ, nie wiadomo nic!
